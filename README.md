@@ -77,6 +77,16 @@ isaac = {
 
 ---
 
+## `> contributions_snake.sh`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Z4cksss/Z4cksss/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## `> contact.sh`
 
 <div align="center">
